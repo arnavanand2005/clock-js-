@@ -1,0 +1,30 @@
+#time{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: monospace;  
+    font-size:xxx-large;
+    font-weight: bold;
+    backdrop-filter: 20px;
+    color: white;
+    background-color: rgb(12, 1, 1);
+    width: 100%;
+    height:60px
+}
+
+#clock{
+    justify-content: center;
+align-items: center;
+    display: flex;
+    border: 10px ;
+    height: 100vh;
+}
+
+body{
+    margin: 0PX;
+    background-image: url(eiffel.png);
+    background-position: 50% 50%;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
